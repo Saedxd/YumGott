@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "607731009626",
+    "project_id": "yumgott-ee607",
+    "storage_bucket": "yumgott-ee607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607731009626:android:dbfbb4d6f1521dc5a2b063",
+        "android_client_info": {
+          "package_name": "com.ActiveHub.YumGott"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607731009626-e1s6tn4lv914g8k1bc6u97stq4stvdra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ActiveHub.YumGott",
+            "certificate_hash": "efc31724b5e7e5f9000543904eea764d1d10792a"
+          }
+        },
+        {
+          "client_id": "607731009626-hcmlmibdgi1n2qke9kr398b44a26rd8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ActiveHub.YumGott",
+            "certificate_hash": "4074e8a1ac6a892d81c663d764fcbc85cf5719f9"
+          }
+        },
+        {
+          "client_id": "607731009626-2uj38np2kscitpi6rf00lkrjk61vlu1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVebPBd02whlDy5Il_vS2EaAN480D5zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607731009626-2uj38np2kscitpi6rf00lkrjk61vlu1i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607731009626-ou6641j657si2c0pic3is8586koeso9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ActiveHub.logo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

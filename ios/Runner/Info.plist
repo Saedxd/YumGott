@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>NSAppTransportSecurity</key>
+<dict>
+	<key>NSAllowsArbitraryLoads</key>
+	<true/>
+</dict>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Replace with your permission description.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Privacy - Photo Library Usage Description</string>
+<key>NSMotionUsageDescription</key>
+<string>Motion usage description</string>
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>NSPhotoLibraryAddUsageDescription</string>
+<key>FacebookAppID</key>
+<string>646247147545917</string>
+
+<key>FacebookClientToken</key>
+<string>7b3cf5271961ab19d8c477e9198c0a0d</string>
+<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>googlechromes</string>
+    <string>comgooglemaps</string>
+</array>
+<key>NSCameraUsageDescription</key>
+<string>your usage description here</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>your usage description here</string>
+<array>
+    <string>twitter</string>
+</array>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>This app needs access to location when open.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>This app needs access to location when in the background.</string>
+<key>FlutterDeepLinkingEnabled</key>
+<true/>
+<key>NSAppTransportSecurity </key>
+<true/>
+<key>com.apple.developer.associated-domains</key>
+
+<key>FirebaseDynamicLinksCustomDomains</key>
+<array>
+    <string>https://custom.domain.io/path1</string>
+    <string>https://custom.domain.io/path2</string>
+</array>
+
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>YumGott</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ActiveHub.YumGott</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>YumGott</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+</dict>
+</plist>
