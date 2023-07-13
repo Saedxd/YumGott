@@ -1,16 +1,11 @@
 # Yumgott
+Yummgot application built using Flutter FrameWork
+in a MVVM archriture pattern and Also Bloc pattern as the State Management
 
-A new Flutter project.
+this app is all about connecting restaurants and Customers
+it supports making an account for Each Type of them,
 
-## Getting Started
+User can Upload a video about some product they Bought
+Video goes Viral, then if anyone buys the from my Video "Reel" i Get Commision out of this Sale
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+you can like save REELs,Follow users/Restaurants, intracte Review and alot more
